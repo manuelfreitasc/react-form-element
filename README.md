@@ -1,10 +1,11 @@
 # react-form-login
 um component  de campus pronto para usar
 
-<h1>Usando em uma aplicao</h1>
+##Using in your aplication
 
-
+```
 import React from "react";
+
 import { TextInput } from "../lib";
 
 const App = () => (
@@ -14,4 +15,12 @@ const App = () => (
 );
 
 export default App;
-`
+```
+## Installation
+```
+npm istall react-form-login
+
+or 
+
+yarn add react-form-login
+```
